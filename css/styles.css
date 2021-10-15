@@ -19,7 +19,7 @@
 
 body {
     background: var(--clr-pri-pale);
-    background-image: url('/images/pattern-background-mobile.svg ');
+    background-image: url('../images/pattern-background-mobile.svg ');
     background-repeat: no-repeat;
     background-position: top center;
     background-size: cover;
