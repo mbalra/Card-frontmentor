@@ -183,6 +183,10 @@ button:hover {
     .card-img {
         flex-basis: 220px
     }
+      .card-txt {
+        padding: 1.5em 0;
+        height: 180px;
+    }
 
     .title {
         font-size: 1.1rem;
